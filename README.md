@@ -1,0 +1,1 @@
+This is the expo tutorial followed through the official documentation, potentially with a couple of changes.
